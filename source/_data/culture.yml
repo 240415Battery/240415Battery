@@ -1,0 +1,28 @@
+## 企业文化
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# cover_size:   封面图片大小
+# link:         链接路径，无链接为空即可
+#
+- name: 愿景
+  en_name: 
+  description: 成为全球智能微电源解决方案的优质提供者，让每一颗纽扣电池都值得信赖。
+  cover: /images/culture/icon_1.svg
+  cover_size: 64
+  link:
+
+- name: 价值观
+  en_name: 
+  description: 专注、可靠、环保，致力于为客户提供持久稳定的微型电源支持。
+  cover: /images/culture/icon_3.svg
+  cover_size: 64
+  link:
+
+- name: 目标
+  en_name: 
+  description: 用优质的纽扣电池为千家万户的电子设备持续赋能，推动微型能源技术不断进步。
+  cover: /images/culture/icon_2.svg
+  cover_size: 64
+  link:
