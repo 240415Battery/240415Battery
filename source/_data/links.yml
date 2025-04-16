@@ -2,11 +2,11 @@
 # name:         文字/标题
 # link:         链接路径，无链接为空即可
 #
-# - name: Acorn
-#   link: https://acorn.imaging.xin/
+- name: 地址：福建省莆田市涵江区超力电子厂
+  link: https://surl.amap.com/xmO2dq9ggHK
 
-# - name: Hexo
-#   link: https://hexo.io/
+- name: 微信电话：13905049073
+  link: tel://13905049073
 
 # - name: GitHub
 #   link: https://github.com
