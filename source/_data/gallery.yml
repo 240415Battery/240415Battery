@@ -6,16 +6,23 @@
 # link:         链接路径，无链接为空即可
 # preview:      预览路径，无则可以为空
 #
-- name: 橡子
-  en_name: Acorn
-  description: Acorn 是一“颗”免费且开源的 Hexo 主题，可适用于中小型企业门户或工作室等展示类网站的简单建设。
-  cover: /images/sample/mydesk.png
+- name: 冲压车间
+  en_name: 冲压车间
+  description: 高效冲压设备保障精密零部件成型，奠定产品质量基础。
+  cover: /images/sample/factory1.jpg
   link: 
   preview: 
 
-- name: 橡子
-  en_name: Acorn
-  description: Acorn 是一“颗”免费且开源的 Hexo 主题，可适用于中小型企业门户或工作室等展示类网站的简单建设。
-  cover: /images/sample/mydesk.png
+- name: 烘烤机器
+  en_name: 烘烤机器
+  description: 自动化烘烤系统，确保电池核心组件干燥稳定。
+  cover: /images/sample/factory2.jpg
+  link: 
+  preview: 
+
+- name: 检测流程
+  en_name: 检测流程
+  description: 严谨的检测工序，层层把控，为品质保驾护航。
+  cover: /images/sample/factory3.jpg
   link: 
   preview: 
