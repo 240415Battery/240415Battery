@@ -1,0 +1,28 @@
+## 画廊
+# name:         标题
+# en_name:      英文标题
+# description:  描述内容
+# cover:        封面图片路径
+# link:         链接路径，无链接为空即可
+# preview:      预览路径，无则可以为空
+
+- name: 2025年欧盟 SGS 英文报告
+  en_name: 2025年欧盟 SGS 英文报告
+  description: 本报告为产品通过2025年欧盟相关法规与安全标准的英文版认证文件。
+  cover: /images/certificate/2025年欧盟SGS英文报告.png
+  link: 
+  preview: 
+
+- name: 2025年欧盟 SGS 中文报告
+  en_name: 2025年欧盟 SGS 中文报告
+  description: 本报告为产品通过2025年欧盟相关法规与安全标准的中文版认证文件。
+  cover: /images/certificate/2025年欧盟SGS中文报告.png
+  link: 
+  preview: 
+
+- name: 2025年 LR44CE SGS 英文报告
+  en_name: 2025年 LR44CE SGS 英文报告
+  description: 本报告为 LR44 电池符合2025年CE认证要求的英文版检测报告。
+  cover: /images/certificate/2025年LR44CE英文SGS.png
+  link: 
+  preview: 
